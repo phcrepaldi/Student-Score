@@ -21,7 +21,7 @@ branch. Pull requests are warmly welcome."
 
 ## Links
 
-- Project homepage: https://github.com/phcrepaldi/notas
+- Project homepage: https://github.com/phcrepaldi/grade
 - Issue tracker:
   - In case of sensitive bugs like security vulnerabilities, please contact
     phcrepaldi@gmail.com directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
